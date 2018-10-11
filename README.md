@@ -30,7 +30,7 @@ Ugrubo, razlikujemo sljedeće faze u ovom procesu:
 2. **Izrada _low-fidelity_ i _high-fidelity_ prototipa i njihova evaluacija**
 
    > NAPOMENA:  
-   > Pokušajte odoljeti porivu da u ovoj fazi otvorite vaš preferirani editor i započnete programirati. U ovoj fazi razvoja projekta vaš _dobar prijatelj_ su olovka i papir, razni grafički editori (npr. [Inkscape](https://inkscape.org/en/)), alati za brzu izradu prototipa (npr. [Balsamiq](https://balsamiq.com), [Sketch](https://www.sketchapp.com), [inVision](https://www.invisionapp.com)). Provedite evaluaciju vašeg prototipa s kolegama ili profesorima i popravite uočene _usability bug_-ove.
+   > Pokušajte odoljeti porivu da u ovoj fazi otvorite vaš preferirani editor i započnete programirati. U ovoj fazi razvoja projekta vaš _dobar prijatelj_ su olovka i papir, razni grafički editori (npr. [Inkscape](https://inkscape.org/en/)), alati za brzu izradu prototipa (npr. [Balsamiq](https://balsamiq.com), [Draw.io](https://www.draw.io/), [Sketch](https://www.sketchapp.com), [inVision](https://www.invisionapp.com)). Provedite evaluaciju vašeg prototipa s kolegama ili profesorima i popravite uočene _usability bug_-ove.
 
 3. **Implementacija prototipa i njegova evaluacija**
 
