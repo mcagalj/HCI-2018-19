@@ -74,4 +74,7 @@ function main(numberOfJobs = 5000) {
   });
 }
 
+// NOTE: this runs the last defined "main" function.
+// Comment out the definition/s that you do not want
+// to execute.
 main();
