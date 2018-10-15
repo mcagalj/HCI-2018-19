@@ -63,4 +63,9 @@ Vaša aplikacija namjenjena je širokom krugu korisnika. Baza korisnika uključu
 
 ## Korisni (tehnički) savjeti i reference
 
-_To appear..._
+### Bits of JavaScript
+
+U direktoriju [bits-of-javascript](/bits-of-javascript) možete naći niz JavaScript _code snippet_-a koji demonstriraju neke specifičnosti JavaScript programskog jezika. Skripte možete izvoditi direktno u konzolnom prozoru web preglednika.
+
+> NAPOMENA:  
+> Dio skripti također možete izvoditi u [Node.js](https://nodejs.org) _shell_-u. Pri tome možete koristiti alat [`nodemon`](https://nodemon.io) koji automatskih restarta vašu skriptu pri promjeni koda u skripti.
