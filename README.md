@@ -69,3 +69,7 @@ U direktoriju [bits-of-javascript](/bits-of-javascript) možete naći niz JavaSc
 
 > NAPOMENA:  
 > Dio koda također možete izvoditi u [Node.js](https://nodejs.org) _shell_-u. Pri tome možda želite koristiti alat [`nodemon`](https://nodemon.io) koji automatskih restarta vaš Node proces pri promjeni koda.
+
+### Bits of responsive layout
+
+U direktoriju [bits-of-layout](/bits-of-layout) možete naći primjer responzivne web stranice realizirane primjenom _CSS Grid_-a. Ovaj primjer pokazuje zašto u budućnosti (odnosno već i danas) možda ne trebate CSS _framework_-e kao što je _Bootstrap_.
