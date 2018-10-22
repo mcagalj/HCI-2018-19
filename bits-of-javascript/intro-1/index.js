@@ -44,7 +44,7 @@ function main() {
 }
 
 //=======================================
-//  Break the long jon into multiple
+//  Break the long job into multiple
 //  shorter yet blocking jobs
 //=======================================
 function main(numberOfJobs = 5000) {
