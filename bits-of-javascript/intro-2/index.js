@@ -15,7 +15,7 @@ if (window.Worker) {
   );
 
   // Initiating a long job on a separate thread
-  const message = { duration: 5000, logging: true };
+  const message = { duration: 10000, logging: true };
   web_worker.postMessage(message);
 
   // Process a message from the worker

@@ -35,9 +35,9 @@ myObject = {
 
 // Let us also define a global variable
 if (typeof window !== "undefined" && window) {
-  window.a = "1";
+  window.a = 10;
 } else {
-  global.a = "1";
+  global.a = 10;
 }
 
 console.log(`\nfunA(): ${funA()}`);

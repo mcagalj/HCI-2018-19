@@ -4,6 +4,7 @@ function funA() {
 }
 
 // in strict mode, this is undefined
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode
 function funB() {
   "use strict";
   return this;

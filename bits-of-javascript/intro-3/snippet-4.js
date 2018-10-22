@@ -38,6 +38,6 @@ myObjectB = {
   fun_bound: myObjectA.fun_bound
 };
 
-console.log(`\nnmyObjectB: ${pretty(myObjectB)}`);
+console.log(`\nmyObjectB: ${pretty(myObjectB)}`);
 console.log(`myObjectB.fun(): ${pretty(myObjectB.fun())}`);
 console.log(`myObjectB.fun_bound(): ${pretty(myObjectB.fun_bound())}`);
