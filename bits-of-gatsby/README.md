@@ -89,7 +89,7 @@ U nastavku ćemo pokazati primjenu CSS modula na našoj _Hello, World_ aplikacij
 
    Trenutna struktura `\hci-project\src` direktorija:
 
-   ```shell
+   ```console
    \hci-project\src
    ├── components
    |  ├── SiteContainer
@@ -146,7 +146,7 @@ U nastavku ćemo pokazati primjenu CSS modula na našoj _Hello, World_ aplikacij
 
 #### Kreiramo komponentu _Container_
 
-```shell
+```console
  \hci-project\src
  ├── components
  |  ├── Container
@@ -210,7 +210,7 @@ U nastavku ćemo pokazati primjenu CSS modula na našoj _Hello, World_ aplikacij
 
 #### Kreiramo komponentu _Header_
 
-```shell
+```console
 \hci-project\src
 ├── components
 |  ├── Container
@@ -359,7 +359,7 @@ U nastavku ćemo pokazati primjenu CSS modula na našoj _Hello, World_ aplikacij
 
 6. U direktoriju `\hci-project\src` kreirajte direktorij `styles` i u njemu datoteku `index.css`. U ovoj `.css` datoteci definirati ćemo globalne css varijable i stilove.
 
-   ```shell
+   ```console
    \hci-project\src
    ├── components
    |  ├── Container
@@ -440,7 +440,7 @@ Prethodno smo kreirali navigacijsku traku s linkovima na nepostojeće stranice `
 
 #### Kreiramo komponentu _Layout_
 
-```shell
+```console
 hci-project\src
 ├── components
 | ├── Container
@@ -505,7 +505,7 @@ hci-project\src
 
 1. U direktoriju `\hci-project\src\pages` kreirajte datoteke `second-page.js` i `about.js`.
 
-   ```shell
+   ```console
    hci-project\src
    ├── components
    ...
