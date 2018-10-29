@@ -73,3 +73,7 @@ U direktoriju [bits-of-javascript](/bits-of-javascript) možete naći niz JavaSc
 ### Bits of responsive layout
 
 U direktoriju [bits-of-layout](/bits-of-layout) možete naći primjer responzivne web stranice realizirane primjenom _CSS Grid_-a. Ovaj primjer pokazuje zašto u budućnosti (odnosno već i danas) možda ne trebate CSS _framework_-e kao što je _Bootstrap_.
+
+### [Bits of GatsbyJS](bits-of-gatsby/README.md)
+
+Upute, savjeti i _pointeri_ vezani za razvoj [JAM](https://jamstack.org/) web stranica/aplikacija u GatsbyJS _framework_-u.
