@@ -23,7 +23,7 @@ Upute, savjeti i _pointeri_ vezani za razvoj [JAM](https://jamstack.org/) web st
 
 1. Provjerite u terminalu imate li instaliran [Node.js](https://nodejs.org/en/) i _package manager_ `npm`.
 
-   ```console
+   ```shell
    >node --version
    v8.12.0
 
@@ -38,7 +38,7 @@ Upute, savjeti i _pointeri_ vezani za razvoj [JAM](https://jamstack.org/) web st
 
 3. Instalirajte `gatsby-cli` (_Gatsby command-line interface_) kako slijedi (_flag_ `-g` označava globalnu instalaciju).
 
-   ```console
+   ```shell
    >npm install -g gatsby-cli
 
    # A quick check
@@ -50,7 +50,7 @@ Upute, savjeti i _pointeri_ vezani za razvoj [JAM](https://jamstack.org/) web st
 
    Kreirajte vlastiti direktorij, npr. `C:>Users\A507\HCI\mcagalj` ako radite na laboratorijskim računalima. Otvorite terminal, uđite u vaš direktorij i izvršite sljedeću naredbu:
 
-   ```console
+   ```shell
     >gatsby new hci-project https://github.com/gatsbyjs/gatsby-starter-hello-world
 
     # Enter hci-project
@@ -89,7 +89,7 @@ U nastavku ćemo pokazati primjenu CSS modula na našoj _Hello, World_ aplikacij
 
    Trenutna struktura `\hci-project\src` direktorija:
 
-   ```console
+   ```shell
    \hci-project\src
    ├── components
    |  ├── SiteContainer
@@ -146,7 +146,7 @@ U nastavku ćemo pokazati primjenu CSS modula na našoj _Hello, World_ aplikacij
 
 #### Kreiramo komponentu _Container_
 
-```console
+```shell
  \hci-project\src
  ├── components
  |  ├── Container
@@ -210,7 +210,7 @@ U nastavku ćemo pokazati primjenu CSS modula na našoj _Hello, World_ aplikacij
 
 #### Kreiramo komponentu _Header_
 
-```console
+```shell
 \hci-project\src
 ├── components
 |  ├── Container
@@ -359,7 +359,7 @@ U nastavku ćemo pokazati primjenu CSS modula na našoj _Hello, World_ aplikacij
 
 6. U direktoriju `\hci-project\src` kreirajte direktorij `styles` i u njemu datoteku `index.css`. U ovoj `.css` datoteci definirati ćemo globalne css varijable i stilove.
 
-   ```console
+   ```shell
    \hci-project\src
    ├── components
    |  ├── Container
@@ -431,7 +431,7 @@ U nastavku ćemo pokazati primjenu CSS modula na našoj _Hello, World_ aplikacij
                 <p>Hello, World!</p>
             </Container>
         </SiteContainer>
-        );
+    );
    ```
 
 ### Adding missing pages
@@ -440,7 +440,7 @@ Prethodno smo kreirali navigacijsku traku s linkovima na nepostojeće stranice `
 
 #### Kreiramo komponentu _Layout_
 
-```console
+```shell
 hci-project\src
 ├── components
 | ├── Container
@@ -505,7 +505,7 @@ hci-project\src
 
 1. U direktoriju `\hci-project\src\pages` kreirajte datoteke `second-page.js` i `about.js`.
 
-   ```console
+   ```shell
    hci-project\src
    ├── components
    ...
