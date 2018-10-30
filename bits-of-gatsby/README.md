@@ -195,7 +195,7 @@ U nastavku ćemo pokazati primjenu CSS modula na našoj _Hello, World_ aplikacij
 
    ```JavaScript
     import React from "react";
-    import { SiteContainer } from "../components";
+    import { SiteContainer, Container } from "../components";
 
     export default () => (
         <SiteContainer>
