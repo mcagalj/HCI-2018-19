@@ -262,7 +262,7 @@ U nastavku ćemo pokazati primjenu CSS modula na našoj _Hello, World_ aplikacij
     import styles from "./styles.module.css";
 
     export default ({ className, children }) => (
-        <div className={cn(className, styles.Container)>
+        <div className={cn(className, styles.Container)}>
             {children}
         </div>
     );
