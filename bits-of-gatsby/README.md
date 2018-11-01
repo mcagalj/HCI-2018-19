@@ -243,12 +243,12 @@ U nastavku ćemo pokazati primjenu CSS modula na našoj _Hello, World_ aplikacij
     export default () => (
         <header className={styles.Header}>
             <Container className={styles.Container}>
-            <span className={styles.Logo}>Gatsby</span>
-            <Nav>
-                <NavLink to="/" exact="true">Home</NavLink>
-                <NavLink to="/second-page/">Second page</NavLink>
-                <NavLink to="/about/">About</NavLink>
-            </Nav>
+                <span className={styles.Logo}>Gatsby</span>
+                <Nav>
+                    <NavLink to="/" exact="true">Home</NavLink>
+                    <NavLink to="/second-page/">Second page</NavLink>
+                    <NavLink to="/about/">About</NavLink>
+                </Nav>
             </Container>
         </header>
     );
@@ -543,4 +543,4 @@ hci-project\src
     );
    ```
 
-Enjoj you first Gatsby application!
+Enjoy your first Gatsby application!
