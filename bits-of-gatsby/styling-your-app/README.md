@@ -7,7 +7,7 @@ Gatsby podržava razne CSS opcije; za više detalja pogledajte _[Introduction to
 U nastavku ćemo pokazati primjenu CSS modula na vašoj _Hello, World_ aplikaciji.
 
 > <span style="color: orange">VAŽNO!</span>  
-> Ove upute pretpostavljaju da ste uspješno postavili razvojno okruženje kako je to opisano u uputama [First Gatsby application](first-gatsby-app/README.md).
+> Ove upute pretpostavljaju da ste uspješno postavili razvojno okruženje kako je to opisano u uputama [First Gatsby application](../first-gatsby-app/README.md).
 
 ## Styling your Hello, World application
 

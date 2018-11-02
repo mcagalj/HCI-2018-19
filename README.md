@@ -73,7 +73,7 @@ Vaša aplikacija namjenjena je širokom krugu korisnika. Baza korisnika uključu
 
 ## Korisni (tehnički) savjeti i reference
 
-### [Bits of JavaScript](bits-of-javascript/README.md)
+### [Bits of JavaScript](bits-of-javascript)
 
 U direktoriju [bits-of-javascript](/bits-of-javascript) možete naći niz JavaScript _code snippet_-a koji demonstriraju neke specifičnosti JavaScript programskog jezika. _Snippet_-e možete izvoditi direktno u konzolnom prozoru web preglednika.
 

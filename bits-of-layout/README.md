@@ -11,19 +11,16 @@ CSS _[Grid](https://www.mozilla.org/en-US/developer/css-grid/)_ i _[Flexbox](htt
     <br><br>
     <em>CSS Grid Inspector</em>
 </p>
-<!-- markdownlint-disable MD033 -->
 
 ## Primjer responzivnog dizajna
 
 [Primjer](index.html) u nastavku testiran je u _Firefox_ pregledniku.
 
-<!-- markdownlint-disable MD033 -->
 <p align="center">
     <img src="../img/grid_based_responsive_layout.gif" width="auto" height="auto"/>
     <br><br>
     <em>An example of responsive layout using CSS Grid and Flexbox</em>
 </p>
-<!-- markdownlint-disable MD033 -->
 
 ## Reference
 
