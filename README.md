@@ -1,6 +1,16 @@
-# Korisnička sučelja
+# Korisnička sučelja <!-- omit in toc -->
 
-## FESB, Računarstvo, 2018/19
+<!-- markdownlint-disable MD007 -->
+
+- [Opis projekta](#opis-projekta)
+    - [Što se očekuje od studenta](#Što-se-očekuje-od-studenta)
+    - [Zadaće i korisnici koje aplikacija treba podržati](#zadaće-i-korisnici-koje-aplikacija-treba-podržati)
+- [Korisni (tehnički) savjeti i reference](#korisni-tehnički-savjeti-i-reference)
+    - [Bits of JavaScript](#bits-of-javascript)
+    - [Bits of responsive layout](#bits-of-responsive-layout)
+    - [Bits of GatsbyJS](#bits-of-gatsbyjs)
+
+## FESB, Računarstvo, 2018/19 <!-- omit in toc -->
 
 Osnovni cilj predmeta **Korisnička sučelja** je upoznati studente s važnim aspekatima procesa dizajna (sučelja) usmjerenog krajnjim korisnicima. Studenti će usvojene principe i heuristike (eng. _usability heuristics_) primjeniti u okviru praktičnog projekta koji će realizirati tijekom semestra. Studenti će također imati priliku upoznati i koristiti moderne tehnologije i alate za izradu _front-end_ aplikacija.
 
@@ -47,7 +57,7 @@ Po realizaciji projekta student će pripremiti finalni izvještaj i prezentaciju
 
 ### Zadaće i korisnici koje aplikacija treba podržati
 
-#### Zahtjevi i zadaće
+#### Zahtjevi i zadaće <!-- omit in toc -->
 
 - Vaša aplikacija će se koristiti iz web preglednika
 - Aplikacija će se koristiti na uređajima razičite veličine (_smartphones_, tableti, laptopi i desktop računala)
@@ -57,20 +67,20 @@ Po realizaciji projekta student će pripremiti finalni izvještaj i prezentaciju
 - Broj _javnih_ stranica (one stranice koje ne zahtjevaju logiranje u sustav) je 5
 - Jedna od javnih stranica je blog (blog mora sadržavati minimalno 20 _postova_ koje mogu uključivati slike, videa, _code snippet_-e)
 
-#### Korisnici
+#### Korisnici <!-- omit in toc -->
 
 Vaša aplikacija namjenjena je širokom krugu korisnika. Baza korisnika uključuje i one ljude čija informatička pismenost nije na vašoj razini. Korisnici tako mogu biti i osobe starije životne dobi (60 i više godina), koji sporo tipkaju, imaju slabiji vid, sluh.
 
 ## Korisni (tehnički) savjeti i reference
 
-### Bits of JavaScript
+### [Bits of JavaScript](bits-of-javascript/README.md)
 
 U direktoriju [bits-of-javascript](/bits-of-javascript) možete naći niz JavaScript _code snippet_-a koji demonstriraju neke specifičnosti JavaScript programskog jezika. _Snippet_-e možete izvoditi direktno u konzolnom prozoru web preglednika.
 
 > NAPOMENA:  
 > Dio koda također možete izvoditi u [Node.js](https://nodejs.org) _shell_-u. Pri tome možda želite koristiti alat [`nodemon`](https://nodemon.io) koji automatskih restarta vaš Node proces pri promjeni koda.
 
-### Bits of responsive layout
+### [Bits of responsive layout](bits-of-layout/README.md)
 
 U direktoriju [bits-of-layout](/bits-of-layout) možete naći primjer responzivne web stranice realizirane primjenom _CSS Grid_-a. Ovaj primjer pokazuje zašto u budućnosti (odnosno već i danas) možda ne trebate CSS _framework_-e kao što je _Bootstrap_.
 
