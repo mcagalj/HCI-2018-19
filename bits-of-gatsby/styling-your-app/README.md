@@ -480,4 +480,4 @@ hci-project\src
     );
    ```
 
-Enjoy syled Gatsby application!
+Enjoy styled Gatsby application!
