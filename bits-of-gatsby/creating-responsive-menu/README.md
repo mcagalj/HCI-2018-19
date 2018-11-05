@@ -14,7 +14,7 @@
     <em>A simple responsive menu - final result</em>
 </p>
 
-Kod za prikazanu web stranicu možete naći u direktoriju [creating-responsive-menu](creating-responsive-menu). Kod možete eventualno prilagoditi vlastitim potrebama.
+Kod za prikazanu web stranicu možete naći u direktoriju [hello-blog](hello-blog). Kod možete eventualno prilagoditi vlastitim potrebama.
 
 U okviru labova prokomentirati ćemo važne aspekte ovog koda. Pozorniji student primjetit će da smo donekle refaktorirali originalni kod.
 
@@ -26,7 +26,7 @@ U okviru labova prokomentirati ćemo važne aspekte ovog koda. Pozorniji student
    > git clone https://github.com/mcagalj/HCI-2018-19
    ```
 
-2. Uđite u direktorij `HCI-2018-19/bits-of-gatsby/creating-blog/hello-blog`.
+2. Uđite u direktorij `HCI-2018-19/bits-of-gatsby/creating-responsive-menu/hello-blog`.
 
 3. Instalirajte potrebne module:
 
