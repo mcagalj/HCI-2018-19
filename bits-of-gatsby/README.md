@@ -5,3 +5,4 @@ Upute, savjeti i _pointeri_ vezani za razvoj [JAM](https://jamstack.org/) web st
 - [First Gatsby application](first-gatsby-app)
 - [Styling your Gatsby application](styling-your-app)
 - [Creating a blog in Gatsby](creating-blog)
+- [Creating a responsive menu](creating-responsive-menu)
