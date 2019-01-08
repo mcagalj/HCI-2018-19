@@ -3,12 +3,13 @@
 <!-- markdownlint-disable MD007 -->
 
 - [Opis projekta](#opis-projekta)
-    - [Što se očekuje od studenta](#Što-se-očekuje-od-studenta)
-    - [Zadaće i korisnici koje aplikacija treba podržati](#zadaće-i-korisnici-koje-aplikacija-treba-podržati)
+  - [Što se očekuje od studenta](#Što-se-očekuje-od-studenta)
+  - [Zadaće i korisnici koje aplikacija treba podržati](#zadaće-i-korisnici-koje-aplikacija-treba-podržati)
 - [Korisni (tehnički) savjeti i reference](#korisni-tehnički-savjeti-i-reference)
-    - [Bits of JavaScript](#bits-of-javascript)
-    - [Bits of responsive layout](#bits-of-responsive-layout)
-    - [Bits of GatsbyJS](#bits-of-gatsbyjs)
+  - [Bits of JavaScript](#bits-of-javascript)
+  - [Bits of responsive layout](#bits-of-responsive-layout)
+  - [Bits of GatsbyJS](#bits-of-gatsbyjs)
+  - [Primjer izvještaja](#primjer-izvještaja)
 
 ## FESB, Računarstvo, 2018/19 <!-- omit in toc -->
 
@@ -87,3 +88,7 @@ U direktoriju [bits-of-layout](/bits-of-layout) možete naći primjer responzivn
 ### [Bits of GatsbyJS](bits-of-gatsby/README.md)
 
 Upute, savjeti i _pointeri_ vezani za razvoj [JAM](https://jamstack.org/) web stranica/aplikacija u GatsbyJS _framework_-u.
+
+### Primjer izvještaja
+
+U direktoriju [docs](docs/HCI_Idemo-u-kino_Ursic-Fiamengo.pdf) možete naći ogledni primjer izvještaja iz projekta u okviru ovog kolegija. Vodite računa da se radi o izvještaju "starije generacije" studenata koji su imali ponešto drugačije zadatke u okviru projekta (npr., intervjue s korisnicima).
